@@ -9,7 +9,7 @@
   
 - 🤝 I’m looking for help with **Data Science**
   
-- 👨‍💻 All of my projects are available at [https://shimanto-portfolio.vercel.app/](https://shimanto-portfolio.vercel.app/)
+- 👨‍💻 Check out some of my  notable works on my portfolio- [https://shimanto-portfolio.vercel.app/](https://shimanto-portfolio.vercel.app/)
   
 - 💬 Ask me about **MERN Stack**
  
