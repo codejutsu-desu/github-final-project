@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Global Language Learning Platform**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and GraphQL**
   
 - 🤝 I’m looking for help with **Data Science**
   
