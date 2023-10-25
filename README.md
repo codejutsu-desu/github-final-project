@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MH Shimanto</h1>
-<h3 align="center">An Linguistic and programming enthusiast who is committed to continuous personal and professional growth, with a strong emphasis on learning and staying current in the ever-evolving tech landscape. Possesses excellent collaborative, analytical, and creative skills along with my Full Stack Web Development Expertise. I am proficient in JavaScript technology stacks.</h3>
+<h3 align="center">You will find me as a linguistic and programming enthusiast who is committed to continuous personal and professional growth, with a strong emphasis on learning and staying current in the ever-evolving tech landscape. Possesses excellent collaborative, analytical, and creative skills along with my Full Stack Web Development Expertise. I am proficient in JavaScript technology stacks.</h3>
 <img align="right" alt="Coding" width="400" height="" src="https://www.mooc.org/hubfs/is-coding-for-me-jpg.jpeg" style="border-radius: 10px;">
 
 - 🔭 I’m currently working on **Global Language Learning Platform**
