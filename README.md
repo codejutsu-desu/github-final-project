@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm our brother MH Shimanto</h1>
+<h1 align="center">Hi 👋, I'm your brother MH Shimanto</h1>
 
 <h3 align="center">You will find me as a linguistic and programming enthusiast who is committed to continuous personal and professional growth, with a strong emphasis on learning and staying current in the ever-evolving tech landscape. In my quality list, I have excellent collaborative, analytical, and creative skills along with my Full Stack Web Development Expertise. I am proficient in JavaScript technology stacks.</h3>
 
