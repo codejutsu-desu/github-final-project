@@ -1,6 +1,6 @@
-# Contributing to [Your Project Name]
+# Contributing to codejutsu-desu
 
-Welcome to [Your Project Name]! We're excited that you're interested in contributing. By participating in this project, you agree to abide by our Code of Conduct.
+Welcome to codejutsu-desu! We're excited that you're interested in contributing. By participating in this project, you agree to abide by our Code of Conduct.
 
 ## How to Contribute
 
